@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-sou o Faustino da silva pascoal, futuramente um programador💻🌐 de sucesso.🙏🤝👏👏
+
+- Actualmente estou a prendendo programação Web 💻🌐 no curso da unitel code Web 2022
+
+Ensino médio concluído no curso de ciências físicas e biológicas 
+
+Como sou iniciante aceitaria qualquer ajuda,
+
+os meus contactos:
+932997974/ Whatsapp: +244932997874
+E-mail: faustinopascoal00@gmail.com 
+https://github.com/Faustinopascoal/Faustinopascoal/edit/main/README.md
+
+ajuda sera sempre bem vinda 
